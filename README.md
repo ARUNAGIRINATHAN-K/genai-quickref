@@ -39,8 +39,6 @@ Designed for:
 - [Keras](Core/Keras.md)
 - [JAX](Core/JAX.md)
 
----
-
 ## LLM Providers
 
 - [OpenAI](Providers/OpenAI.md)
@@ -51,8 +49,6 @@ Designed for:
 - [Cohere](Providers/Cohere.md)
 - [Together AI](Providers/TogetherAI.md)
 
----
-
 ## Transformer & Foundation Model Libraries
 
 - [Transformers](FoundationModels/Transformers.md)
@@ -60,8 +56,6 @@ Designed for:
 - [Tokenizers](FoundationModels/Tokenizers.md)
 - [Sentence Transformers](FoundationModels/SentenceTransformers.md)
 - [Safetensors](FoundationModels/Safetensors.md)
-
----
 
 ## Orchestration Frameworks
 
@@ -71,8 +65,6 @@ Designed for:
 - [DSPy](Orchestration/DSPy.md)
 - [Haystack](Orchestration/Haystack.md)
 
----
-
 ## Agent Frameworks
 
 - [CrewAI](Agents/CrewAI.md)
@@ -81,8 +73,6 @@ Designed for:
 - [OpenAI Agents SDK](Agents/OpenAIAgentsSDK.md)
 - [SmolAgents](Agents/SmolAgents.md)
 - [Agno](Agents/Agno.md)
-
----
 
 ## Retrieval-Augmented Generation (RAG)
 
@@ -94,8 +84,6 @@ Designed for:
 - [Docling](RAG/Docling.md)
 - [MarkItDown](RAG/MarkItDown.md)
 
----
-
 ## Vector Databases & Search
 
 - [Chroma](VectorDB/Chroma.md)
@@ -105,16 +93,12 @@ Designed for:
 - [Weaviate](VectorDB/Weaviate.md)
 - [Milvus](VectorDB/Milvus.md)
 
----
-
 ## Embeddings
 
 - [Sentence Transformers](Embeddings/SentenceTransformers.md)
 - [FastEmbed](Embeddings/FastEmbed.md)
 - [FlagEmbedding](Embeddings/FlagEmbedding.md)
 - [Instructor Embeddings](Embeddings/InstructorEmbeddings.md)
-
----
 
 ## Local Inference & Serving
 
@@ -123,8 +107,6 @@ Designed for:
 - [SGLang](Inference/SGLang.md)
 - [Ollama](Inference/Ollama.md)
 - [Triton Inference Server](Inference/Triton.md)
-
----
 
 ## Fine-Tuning
 
@@ -135,15 +117,11 @@ Designed for:
 - [DeepSpeed](FineTuning/DeepSpeed.md)
 - [bitsandbytes](FineTuning/BitsAndBytes.md)
 
----
-
 ## Structured Outputs & Validation
 
 - [Pydantic](StructuredOutputs/Pydantic.md)
 - [Instructor](StructuredOutputs/Instructor.md)
 - [Outlines](StructuredOutputs/Outlines.md)
-
----
 
 ## Evaluation & Testing
 
@@ -152,16 +130,12 @@ Designed for:
 - [Ragas](Evaluation/Ragas.md)
 - [TruLens](Evaluation/TruLens.md)
 
----
-
 ## Observability & Monitoring
 
 - [Arize Phoenix](Observability/ArizePhoenix.md)
 - [OpenTelemetry](Observability/OpenTelemetry.md)
 - [Weights & Biases](Observability/WandB.md)
 - [MLflow](Observability/MLflow.md)
-
----
 
 ## Multimodal AI
 
@@ -171,8 +145,6 @@ Designed for:
 - [Pillow](Multimodal/Pillow.md)
 - [Coqui TTS](Multimodal/CoquiTTS.md)
 
----
-
 ## API & Application Development
 
 - [FastAPI](Applications/FastAPI.md)
@@ -180,14 +152,10 @@ Designed for:
 - [Gradio](Applications/Gradio.md)
 - [Streamlit](Applications/Streamlit.md)
 
----
-
 ## Model Context Protocol (MCP)
 
 - [MCP Python SDK](MCP/MCPPythonSDK.md)
 - [FastMCP](MCP/FastMCP.md)
-
----
 
 ## Research Papers
 
