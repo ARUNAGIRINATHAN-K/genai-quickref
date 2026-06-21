@@ -189,6 +189,12 @@ Designed for:
 
 ---
 
+## Research Papers
+
+- [GenAI](Research.md)
+
+---
+
 # Reference
 
 | **Library**              | **Languages**         | **Docs**                                      | **GitHub**                                                                 | **Primary Use Case**      |
