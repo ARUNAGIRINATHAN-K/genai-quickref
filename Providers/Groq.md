@@ -4,6 +4,28 @@
 **Official Docs**: [console.groq.com/docs](https://console.groq.com/docs)  
 **GitHub**: [groq/groq-python](https://github.com/groq/groq-python), [groq/groq-typescript](https://github.com/groq/groq-typescript)
 
+## Table of Contents
+
+- [Installation](#installation)
+- [SDK Initialization](#sdk-initialization)
+- [Authentication](#authentication)
+- [Chat Completions (Core Generation)](#chat-completions-core-generation)
+- [Available Models](#available-models)
+- [Multimodal (Vision)](#multimodal-vision)
+- [Tool/Function Calling](#toolfunction-calling)
+- [Structured Outputs (JSON Mode)](#structured-outputs-json-mode)
+- [Speech-to-Text (Audio Transcription)](#speech-to-text-audio-transcription)
+- [Text-to-Speech](#text-to-speech)
+- [Audio Translation](#audio-translation)
+- [Error Handling](#error-handling)
+- [Logging & Debugging](#logging--debugging)
+- [Advanced: Custom HTTP Client](#advanced-custom-http-client)
+- [Production Best Practices](#production-best-practices)
+- [Quick Reference](#quick-reference)
+- [Links & Resources](#links--resources)
+
+---
+
 ## Installation
 
 ### Python

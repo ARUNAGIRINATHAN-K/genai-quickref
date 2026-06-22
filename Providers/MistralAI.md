@@ -4,6 +4,28 @@
 **Official Docs**: [docs.mistral.ai](https://docs.mistral.ai)  
 **GitHub**: [mistralai/client-python](https://github.com/mistralai/client-python), [mistralai/client-ts](https://github.com/mistralai/client-ts)
 
+## Table of Contents
+
+- [Installation](#installation)
+- [SDK Initialization](#sdk-initialization)
+- [Authentication](#authentication)
+- [Chat Completions (Core Generation)](#chat-completions-core-generation)
+- [Available Models](#available-models)
+- [Multimodal (Vision)](#multimodal-vision)
+- [Tool/Function Calling](#toolfunction-calling)
+- [Structured Outputs (JSON Mode)](#structured-outputs-json-mode)
+- [Embeddings](#embeddings)
+- [Async Support](#async-support)
+- [Error Handling](#error-handling)
+- [Streaming Response Objects](#streaming-response-objects)
+- [Models List & Management](#models-list--management)
+- [Advanced: File Uploads & Documents](#advanced-file-uploads--documents)
+- [Production Best Practices](#production-best-practices)
+- [Quick Reference](#quick-reference)
+- [Links & Resources](#links--resources)
+
+---
+
 ## Installation
 
 ### Python

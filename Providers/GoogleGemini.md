@@ -4,6 +4,28 @@
 **Official Docs**: [ai.google.dev](https://ai.google.dev/gemini-api/docs)  
 **GitHub**: [googleapis/python-genai](https://github.com/googleapis/python-genai), [googleapis/js-genai](https://github.com/googleapis/js-genai)
 
+## Table of Contents
+
+- [Installation](#installation)
+- [SDK Initialization](#sdk-initialization)
+- [Authentication](#authentication)
+- [Chat Completions (Core Generation)](#chat-completions-core-generation)
+- [Available Models](#available-models)
+- [Multimodal Input (Vision, Audio, Video, Files)](#multimodal-input-vision-audio-video-files)
+- [Tool/Function Calling](#toolfunction-calling)
+- [Structured Outputs (JSON Mode)](#structured-outputs-json-mode)
+- [Embeddings](#embeddings)
+- [Live API (Real-time Audio/Video)](#live-api-real-time-audiovideo)
+- [Thinking/Extended Thinking](#thinkingextended-thinking)
+- [Batch Processing (Large-scale)](#batch-processing-large-scale)
+- [Error Handling](#error-handling)
+- [File Management](#file-management)
+- [Production Best Practices](#production-best-practices)
+- [Quick Reference](#quick-reference)
+- [Links & Resources](#links--resources)
+
+---
+
 ## Installation
 
 ### Python
